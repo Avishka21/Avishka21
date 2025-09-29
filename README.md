@@ -7,7 +7,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Avishka Vinod Jayawardana</h1>
-<p align="center">Software Engineer @ Amazoft — Cloud, AWS & DevOps. Building serverless apps, automating infrastructure with AWS CDK, and crafting scalable APIs using Lambda, Cognito & DynamoDB.</p>
+<p align="center">
+  Software Engineer @ Amazoft — GoDaddy Registered | Cloudways Hosting | AWS.  
+  Passionate about building optimized apps, deploying with Cloudways, and exploring AWS for scalable solutions.
+</p>
 
 <p align="center">
   <a href="https://github.com/Avishka21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -19,20 +22,20 @@
 ---
 
 ## 🔭 Currently
-- Building: **AWS Centralized Data Pool** (company infra)  
-- Learning: **AWS Certified Solutions Architect — Associate**  
-- Fun fact: I'm a proud tech enthusiast ⚡
+- Building: **GoDaddy domain + Cloudways hosting** with small AWS usage  
+- Learning: **Optimizing deployments with Cloudways + AWS basics**  
+- Fun fact: I love experimenting with different cloud stacks ☁️⚡  
 
 ---
 
 ## 🛠 Current Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudways-2C3E50?style=for-the-badge&logo=cloudways&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20CDK-8A2BE2?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/REST-26A69A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -49,8 +52,8 @@
 ## 💼 Experience Overview
 
 **Frontend:** React, TypeScript, HTML5, CSS3, Tailwind, Ant Design  
-**Backend:** Node.js (Express), Python, REST APIs, DynamoDB, MySQL, PostgreSQL  
-**DevOps / Cloud:** AWS (CDK, Lambda, API Gateway, S3, CloudFront), Docker, GitHub Actions  
+**Backend:** Node.js (Express), Python, REST APIs, MySQL, PostgreSQL  
+**Cloud & Hosting:** GoDaddy Domains, Cloudways Hosting, small-scale AWS (Lambda, DynamoDB, S3), Docker, GitHub Actions  
 
 ---
 
