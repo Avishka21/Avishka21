@@ -1,7 +1,7 @@
 <!-- PROFILE README for Avishka21 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avishka21&color=0e75b6" alt="Profile views" />
+  <img src="[https://komarev.com/ghpvc/](https://avishka21.github.io/Avishka_Jayawardana_Portfolio/)?username=Avishka21&color=0e75b6" alt="Profile views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Avishka Vinod Jayawardana</h1>
