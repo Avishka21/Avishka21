@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/Avishka21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/avishka-vinod-jayawardana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/avishka_vinod"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/947XXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🔭 Currently
 - Building: **AWS Centralized Data Pool** (company infra)  
 - Learning: **AWS Certified Solutions Architect — Associate**  
-- Fun fact: I'm a proud tab enthusiast 🎸
+- Fun fact: I'm a proud tech enthusiast ⚡
 
 ---
 
@@ -50,7 +50,7 @@
 
 **Frontend:** React, TypeScript, HTML5, CSS3, Tailwind, Ant Design  
 **Backend:** Node.js (Express), Python, REST APIs, DynamoDB, MySQL, PostgreSQL  
-**DevOps / Cloud:** AWS (CDK, Lambda, API Gateway, S3, CloudFront), Docker, GitHub Actions
+**DevOps / Cloud:** AWS (CDK, Lambda, API Gateway, S3, CloudFront), Docker, GitHub Actions  
 
 ---
 
@@ -68,7 +68,8 @@ Go to your GitHub profile → **Customize your pins** → select up to 6 repos t
 ---
 
 ## ⚡ Quick Links
-- Repositories: `https://github.com/Avishka21?tab=repositories`  
-- Resume: `https://your-domain.com/your-resume.pdf` (replace with your resume link)
+- 🌐 Portfolio: [Avishka Jayawardana Portfolio](https://avishka21.github.io/Avishka_Jayawardana_Portfolio/)  
+- 📂 Repositories: [GitHub Projects](https://github.com/Avishka21?tab=repositories)  
+- 📄 Resume: *(add your link here)*  
 
 <p align="center">Thanks for visiting — let's build something awesome! 🚀</p>
